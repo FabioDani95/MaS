@@ -1,2 +1,7 @@
 openai
 python-dotenv
+markitdown[pdf]
+PyMuPDF
+langchain-openai
+langchain-core
+pydantic
